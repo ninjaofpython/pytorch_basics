@@ -1,3 +1,5 @@
-{
+{ "notebook.codeActionsOnSave": {
+    "notebook.source.cleanImports": "explicit",
+},  
     "editor.acceptSuggestionOnEnter": "on"
 }
